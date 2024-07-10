@@ -23,7 +23,7 @@ To get started with Hyper Bots locally, follow these steps:
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd hyper-bots
+    cd Portifolio
     ```
 3. **Install the dependencies:**
     ```sh
