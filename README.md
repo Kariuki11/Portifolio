@@ -9,7 +9,7 @@ Certainly! Here's a comprehensive README.md template for the "Hyper Bots" projec
 Hyper Bots is an advanced chatbot project designed to provide seamless interactions. Equipped with a range of functionalities, Hyper Bots can answer questions, provide information, and assist with various tasks.
 
 **Deployed Site:** https://karenjunjeru.github.io/chatbottest/  
-**Final Project Blog Article:** [Read the Blog](#)  
+**Final Project Blog Article:** https://www.linkedin.com/feed/update/urn:li:activity:7216933339100770304/  
 **Author(s) LinkedIn:** https://www.linkedin.com/in/kennedy-kariuki-222922286/
 
 
