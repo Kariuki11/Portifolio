@@ -104,7 +104,7 @@
 
         function getBotResponse(input) {
             var responses = {
-{ input: "hi", output: "Hello! How can I help you today?" },
+            { input: "hi", output: "Hello! How can I help you today?" },
             { input: "hello", output: "Hi there! What can I do for you?" },
             { input: "how are you", output: "I'm just a bot, but I'm doing great! How about you?" },
             { input: "bye", output: "Goodbye! Have a great day!" },
@@ -538,7 +538,8 @@
             { input: "what is the currency of Greece", output: "The currency of Greece is the Euro (EUR)." },
             { input: "who wrote 'The Handmaid's Tale'", output: "'The Handmaid's Tale' was written by Margaret Atwood." },
             { input: "what is the capital of Canada", output: "The capital of Canada is Ottawa." },
-            { input: "who discovered penicillin", output: "Penicillin was discovered by Alexander Fleming." },                "default": "I'm not sure how to respond to that. Can you ask something else?"
+            { input: "who discovered penicillin", output: "Penicillin was discovered by Alexander Fleming." },
+            { input: "default": "I'm not sure how to respond to that. Can you ask something else?"
             };
 
             var response = responses[input.toLowerCase()] || responses["default"];
